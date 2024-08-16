@@ -1,4 +1,4 @@
-module erickmetz.io/vanity/subdir1/subdir2/gh-test
+module erickmetz.io/vanity/subdir1/subdir2/githubvanitytest
 
 go 1.22.6
 
